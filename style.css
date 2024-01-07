@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  @apply font-Open-Sans text-white;
+}
+
+body {
+  @apply bg-bg-desktop bg-my-violet bg-no-repeat max-b2:bg-bg-mobile max-b2:bg-contain;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  @apply font-Poppins;
+}
