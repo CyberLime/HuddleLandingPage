@@ -23,13 +23,13 @@ document.querySelector('#app').innerHTML = `
       </section>
     </main>
     <footer class="flex items-center justify-end gap-3 px-10 mb-5 max-b1:px-8 max-b1:gap-2 max-b1:mt-20 max-lg:px-6 max-lg:gap-1.5 max-lg:mt-10 max-b2:justify-center max-b2:gap-3">
-      <div class="flex justify-center items-center w-10 h-10 border-solid rounded-full border-2 transition-all cursor-pointer hover:border-my-soft-magenta group max-b1:w-8 max-b1:h-8" max-lg:w-6 max-lg:h-6>
+      <div class="flex justify-center items-center w-10 h-10 border-solid rounded-full border-2 transition-all cursor-pointer hover:border-my-soft-magenta group max-b1:w-8 max-b1:h-8">
         <i class="fa-brands fa-facebook-f text-white text-xl transition-all group-hover:text-my-soft-magenta max-b1:text-base max-lg:text-sm"></i>
       </div>
-      <div class="flex justify-center items-center w-10 h-10 border-solid rounded-full border-2 transition-all cursor-pointer hover:border-my-soft-magenta group max-b1:w-8 max-b1:h-8" max-lg:w-6 max-lg:h-6>
+      <div class="flex justify-center items-center w-10 h-10 border-solid rounded-full border-2 transition-all cursor-pointer hover:border-my-soft-magenta group max-b1:w-8 max-b1:h-8">
         <i class="fa-brands fa-twitter text-white text-xl transition-all group-hover:text-my-soft-magenta max-b1:text-base max-lg:text-sm"></i>
       </div>
-      <div class="flex justify-center items-center w-10 h-10 border-solid rounded-full border-2 transition-all cursor-pointer hover:border-my-soft-magenta group max-b1:w-8 max-b1:h-8" max-lg:w-6 max-lg:h-6>
+      <div class="flex justify-center items-center w-10 h-10 border-solid rounded-full border-2 transition-all cursor-pointer hover:border-my-soft-magenta group max-b1:w-8 max-b1:h-8">
         <i class="fa-brands fa-instagram text-white text-xl transition-all group-hover:text-my-soft-magenta max-b1:text-base max-lg:text-sm"></i>
       </div>
     </footer>
